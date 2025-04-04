@@ -1,9 +1,9 @@
-.nav-link.active {
-    color: #007bff !important; /* Change the color to indicate the active link */
-    font-weight: bold; /* Make the active link bold */
-  }
+.navbar {
+  padding-top: 0.25rem !important; /* Reduce top padding */
+  padding-bottom: 0.25rem !important; /* Reduce bottom padding */
+}
 
-  .navbar-logo {
-    width: 150px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-  }
+.navbar-logo {
+  height: 50px !important; /* Adjust logo height */
+  width: 120px !important; /* Adjust logo width */
+}
